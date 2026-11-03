@@ -1,5 +1,3 @@
-# Project-Portfolio
-
 # Mary Sullivan \| Data Science Project Portfolio
 
 I am a data professional with a background in mathematics and data
